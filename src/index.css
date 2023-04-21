@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.header h1 {
+  font-family: 'Bigelow Rules', cursive;
+  color: #95dada);
+}
+
+.header p {
+  font-family: 'Bigelow Rules', cursive;
+}
